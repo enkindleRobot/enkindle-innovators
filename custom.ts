@@ -17,7 +17,7 @@ namespace Enkindle {
      * Set the pins for the Left and Right IR sensors.
      */
     //% group="Line Follower"
-    //% block="Initialize Enkindle: Left pin %left| Right pin %right"
+    //% block="Initialize Line Follower: Left pin %left| Right pin %right"
     //% left.defl=DigitalPin.P8
     //% right.defl=DigitalPin.P12
     //% weight=100
